@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The dom is the browsers representation of our code.
+
 2. What is an event?
+
+An event is an action the user or the webpage makes that can be tracked by the dom.
 
 3. What is an event listener?
 
+It listens for an event in the dom and preforms that event when the selected dom item has met the requriement for the event lisetner, the event is triggered.
+
 4. Why would we convert a NodeList into an Array?
 
+Array.from
+
 5. What is a component?
+
+A componet is a series of parts to build a machine or part of machine. In code this is a function that can be used to create elements on the page without haveing to individually code each one.
 
 ### Git Set up
 
